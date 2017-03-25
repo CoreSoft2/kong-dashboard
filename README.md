@@ -1,10 +1,11 @@
+
 # Kong Dashboard
 
 [**Kong**](https://getkong.org/) is a scalable, open source API Layer (also known as a API Gateway, or API Middleware).
 Kong runs in front of any RESTful API and provide functionalities
 and services such as requests routing, authentication, rate limiting, etc.
 
-**Kong dashboard** is a UI tool that will let you manage your Kong Gateway setup.
+*Kong dashboard* is a UI tool that will let you manage your Kong Gateway setup.
 
 ## Compatibility matrix
 
